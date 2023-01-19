@@ -1,0 +1,18 @@
+
+El codigo PingPong.py es el juego de codigo del juego normal: Utiliza una libreria llamada "Turtle" 
+y no se que pasa que cuando lo ejecutas, algo pasa con el kernel y te cierra 
+consola para ejecutar, eso lo hace esa libreria, pero lo que yo hacia, era abrir una nueva
+consola para volver a ejecutar, o sino limpia la consola y ya ejecuta tambien)
+
+
+El segundo codigo PingPongSonido.py viene el mismo codigo pero agregando el sonido
+del rebote, solo que para que te agarre debes instalar una paqueteria: 
+->Ve a la CMD poniendo en el buscador de tu windows
+->Luego escribe:pip install playsound
+->Y ya copias y pegas el codigo que te pase.
+->Y no se te olvide poner bien la direccion de tu arichvo de sonido en donde dice "sonido=(sonido.mp3)"
+
+EL JUEGO SE MANEJA CON LAS FLECHAS(ARRIBA Y ABAJO) 
+EL OTRO JUGADOR CON EL TECLADO ( "W" Y "S")
+Ya tu decides con cual entregar...
+Si no te agarra, mejor prueba con otra libreria como pygame
